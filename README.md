@@ -4,4 +4,4 @@
 
 ![Course Thumbnail](/thumb.png)
 
-# Karan Prakash
+
